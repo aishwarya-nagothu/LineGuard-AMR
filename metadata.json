@@ -1,0 +1,6 @@
+{
+  "name": "LINEGUARD - Decentralized Starvation-Risk-Aware AMR Coordination",
+  "description": "Decentralized Starvation-Risk-Aware Coordination of Autonomous Mobile Robots for Automotive Assembly Logistics. Minimizes factory-wide expected production loss through collateral risk and starvation awareness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
